@@ -1,0 +1,28 @@
+ .navbar .navbar-brand{
+      color:#ff0285;
+      font-size: 1.6em;
+      font-weight: 600;
+    }
+    .container{
+      padding-top:20px;
+      padding-bottom: 20px;
+    }
+    .footer{
+      bottom:0;  
+       
+      width:100%; 
+        height: 200px
+    }
+    .container .articles{
+      padding-top:10px;
+      padding-bottom: 5px;
+    }
+    .action{
+      bottom:0;
+    }
+    .article-img img{
+      height: 200px; width: 200px;
+    }
+    .action .fa{
+      padding: 10px;
+    }
